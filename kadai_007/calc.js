@@ -1,6 +1,9 @@
 
 
-num = 15;
+let num = 15;
+
+//変数numの値を出力
+console.log(num);
 
 //変数(num)が3と5の倍数の場合
 if ((num % 3) === 0 && (num % 5) === 0) {
